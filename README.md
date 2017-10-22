@@ -1,4 +1,7 @@
 # Bee Connect
+
+[![Build Status](https://api.travis-ci.org/rubyforgood/playtime.svg?branch=master)](https://travis-ci.org/rubyforgood/playtime)
+
 * **Important Update** changed name to Bee Connect as previous name didn't matched it.
 An advance rails user interaction system. Think like its is mini facebook with live chat support. Blogging etc.
 
